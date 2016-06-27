@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<right>ABCD</right>
+	<questionlist>
+	<question>
+		<title>背景解析1_经销商过去的两大主要盈利来源是：</title>
+		<answerA>新车销售和二手车置换11</answerA>
+		<answerB>新车销售和二手车置换12</answerB>
+		<answerC>新车销售和二手车置换13</answerC>
+		<answerD>新车销售和二手车置换14</answerD>
+		<answer>A</answer>
+	</question>
+	<question>
+		<title>背景解析2_经销商过去的两大主要盈利来源是</title>
+		<answerA>新车销售和二手车置换21</answerA>
+		<answerB>新车销售和二手车置换22</answerB>
+		<answerC>新车销售和二手车置换23</answerC>
+		<answerD>新车销售和二手车置换24</answerD>
+		<answer>B</answer>
+	</question>
+	<question>
+		<title>背景解析3_经销商过去的两大主要盈利来源是</title>
+		<answerA>新车销售和二手车置换33</answerA>
+		<answerB>新车销售和二手车置换32</answerB>
+		<answerC>新车销售和二手车置换33</answerC>
+		<answerD>新车销售和二手车置换34</answerD>
+		<answer>C</answer>
+	</question>
+	<question>
+		<title>背景解析4_经销商过去的两大主要盈利来源是</title>
+		<answerA>新车销售和二手车置换41</answerA>
+		<answerB>新车销售和二手车置换42</answerB>
+		<answerC>新车销售和二手车置换43</answerC>
+		<answerD>新车销售和二手车置换44</answerD>
+		<answer>D</answer>
+	</question>
+	</questionlist>
+</data>
